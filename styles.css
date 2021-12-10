@@ -40,7 +40,7 @@
 .cup-shine{
   position: absolute;
   bottom: 2px;
-  border-top: 27vmin solid #7e7a31;
+  border-top: 27vmin solid #bef264;
   border-right: 22vmin solid transparent;
   
 }
@@ -49,7 +49,7 @@
   position: absolute;
   width: 23vmin;
   height: 4vmin;
-  background-color: #84cc16;
+  background-color: #D06224;
   bottom: 88%;
   border-radius: 50%/100%;
 }
@@ -58,7 +58,7 @@
   position: absolute;
   width: 15vmin;
   height: 16vmin;
-  background: #8A8635;
+  background: #bef264;
   border-radius: 50%;
   bottom:2%;
   right: -5vmin;
