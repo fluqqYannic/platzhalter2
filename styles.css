@@ -31,7 +31,7 @@
   position: absolute;
   width: 23vmin;
   height: 30vmin;
-  background: #bef264;
+  background: #15803d;
   bottom: 55%;
   border-radius: 10% 10% 2% 2%;
   
@@ -40,7 +40,7 @@
 .cup-shine{
   position: absolute;
   bottom: 2px;
-  border-top: 27vmin solid #bef264;
+  border-top: 27vmin solid #166534;
   border-right: 22vmin solid transparent;
   
 }
@@ -58,7 +58,7 @@
   position: absolute;
   width: 15vmin;
   height: 16vmin;
-  background: #bef264;
+  background: #15803d;
   border-radius: 50%;
   bottom:2%;
   right: -5vmin;
