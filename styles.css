@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #06b6d4;
+  background-color: #f87171;
   width: 100%;
   height: 100vh;
 }
@@ -69,7 +69,7 @@
   position: absolute;
   width: 8vmin;
   height: 10vmin;
-  background: #e9be74;
+  background: #f87171;
   border-radius: 50%;
   bottom:2%;
   right: 3vmin;
